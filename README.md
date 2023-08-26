@@ -1,2 +1,2 @@
 # Image-Carousel
-Image carousel using HTML, CSS and Java Script
+Image carousel to display diffrent images using HTML, CSS and Java Script
